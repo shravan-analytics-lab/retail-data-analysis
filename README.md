@@ -197,7 +197,6 @@ This chart shows **how total sales vary across different months**.
 ---
 
 # 📊 Distribution of Transaction Amount
-## 📊 Distribution of Transaction Amount
 
 ## 🔎 Business Insight
 
@@ -260,7 +259,7 @@ This scatter plot shows the **relationship between customer age and total spendi
 ---
 
 # 📊 Revenue Contribution by Product Category
-
+![Revenue by Product Category](images/revenue_by_product_category.png)
 ## 🔎 Business Insight
 
 This pie chart shows the **percentage contribution of each product category to total revenue**.
