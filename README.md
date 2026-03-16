@@ -8,8 +8,9 @@ This project analyzes a **retail sales dataset** to extract meaningful business 
 
 ### 📊 Key Analysis Areas
 
-• Customer purchasing behavior
+• Customer purchasing behavior<br>
 • Product category performance
+
 • Sales trends
 
 ---
