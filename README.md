@@ -197,6 +197,7 @@ This chart shows **how total sales vary across different months**.
 ---
 
 # 📊 Distribution of Transaction Amount
+![Distribution of Transaction Amount](images/distribution_of_saletrend.png)
 
 ## 🔎 Business Insight
 
