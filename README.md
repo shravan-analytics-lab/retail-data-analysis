@@ -281,7 +281,7 @@ This pie chart shows the **percentage contribution of each product category to t
 ---
 
 # 📊 Customer Distribution by Gender
-![Customer Distribution by Gender (images/customer_distribution_by_gender.png)
+![Customer Distribution by Gender](images/customer_distribution_by_gender.png)
 
 ## 🔎 Business Insight
 
