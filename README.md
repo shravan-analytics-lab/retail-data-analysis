@@ -281,6 +281,7 @@ This pie chart shows the **percentage contribution of each product category to t
 ---
 
 # 📊 Customer Distribution by Gender
+![Customer Distribution by Gender (images/customer_distribution_by_gender.png)
 
 ## 🔎 Business Insight
 
@@ -329,6 +330,7 @@ This pie chart shows **how different age groups contribute to total revenue**.
 ---
 
 # 📊 Correlation Between Numeric Variables
+![Correlation Heatmap](images/corelation_between_numerical_value.png)
 
 ## 🔎 Business Insight
 
@@ -362,6 +364,7 @@ This heatmap shows the **correlation between key numeric variables** such as:
 ---
 
 # 📊 Revenue Heatmap by Product Category and Gender
+![Revenue Heatmap](images/revenue_heatmap.png)
 
 ## 🔎 Business Insight
 
@@ -392,6 +395,7 @@ This heatmap visualizes **revenue contribution by gender across different produc
 ---
 
 # 📊 Product Category Preference by Age Group
+![Product Category Heatmap](images/product_category_by_heatmap.png)
 
 ## 🔎 Business Insight
 
