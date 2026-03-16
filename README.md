@@ -148,7 +148,7 @@ Matplotlib was used to visualize patterns in the dataset.
 ---
 
 # 📊 Total Revenue by Product Category
-![Total Revenue by Category](images/tot_revenue_by _cat.png)
+![Total Revenue by Category](images/tot_revenue_by_cat.png)
 
 ## 🔎 Business Insight
 
